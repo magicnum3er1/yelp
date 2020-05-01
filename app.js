@@ -15,7 +15,8 @@ app.get('/campgrounds', function(req, res){
         {name: "Granite Hill", image: "https://pixabay.com/get/57e8d1464d53a514f1dc84609620367d1c3ed9e04e5074417d2d7fdd964fc7_340.jpg"},
         {name: "Bieszkowice", image: "https://pixabay.com/get/57e8d0424a5bae14f1dc84609620367d1c3ed9e04e5074417d2d7fdd964fc7_340.jpg"}
     ]
-    res.render('campgrounds');
+    res.render('campgrounds', {campgrounds:campgrounds});
+
 });
     
 
