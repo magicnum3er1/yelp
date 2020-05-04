@@ -9,8 +9,11 @@
   "author": "magicnum3er1",
   "license": "ISC",
   "dependencies": {
+    "body": "^5.1.0",
     "ejs": "^3.1.2",
     "express": "^4.17.1",
+    "locus": "^2.0.4",
+    "parser": "^0.1.4",
     "request": "^2.88.2",
     "typescript": "^3.8.3"
   }
