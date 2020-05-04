@@ -9,6 +9,8 @@ app.set("view engine", "ejs");
 var campgrounds = [
     {name: "Salmon Creek", image: "https://www.globtroter.pl/zdjecia/polska/b280888_polska_kaszuby_pojezierze_kaszubskie.jpg"},
     {name: "Granite Hill", image: "https://polskiepomorze.pl/images/intro/pojezierze-kaszubskie.jpg"},
+    {name: "Bieszkowice", image: "https://img4.garnek.pl/a.garnek.pl/009/807/9807159_800.0.jpg/pojezierze-kaszubskie.jpg"},
+    {name: "Bieszkowice", image: "https://img4.garnek.pl/a.garnek.pl/009/807/9807159_800.0.jpg/pojezierze-kaszubskie.jpg"},
     {name: "Bieszkowice", image: "https://img4.garnek.pl/a.garnek.pl/009/807/9807159_800.0.jpg/pojezierze-kaszubskie.jpg"}
 ]
 
